@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const Footer = () => (
-  <footer className="pie">
+  <footer className="pie ">
     <div className="content">
       <div className="parrafo" >By <a href="https://agrodriguezs.github.io/"  target="_blank">
          Adriana Rodriguez.</a></div>
