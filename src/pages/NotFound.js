@@ -4,7 +4,7 @@ import ImageNoFound  from '../assets/images/nofound.png'
 
 export const NotFound = () => (
 
-  <div className="NoFound">
+  <div className="App NoFound">
     <h2>Sorry! the page is not found</h2>
     <figure>
       <img src={ ImageNoFound } alt= '404' />

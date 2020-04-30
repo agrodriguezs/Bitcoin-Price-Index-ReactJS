@@ -52,7 +52,7 @@ background-color: #201e20;
   font-size: 0.7em
 }
 .pie a, .pie a:hover {
-  color: #BF402E;
+  color: #C98630;
 }
 .pie a:hover {
   text-decoration: underline;
@@ -68,14 +68,14 @@ background-color: #201e20;
   margin-top: 30px;
 }
 .NoFound img{
-  width: 150px;
+  width: 300px;
   margin: 40px 40px;
 }
 .button.is-info {
-    background-color: #e0891d;
+    background-color: #C98630;
     border-color: transparent;
     color: #fff;
 }
 .button.is-info:hover {
-  background-color: #CC9900;
+  background-color: #C98630;
 }
